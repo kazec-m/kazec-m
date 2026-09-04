@@ -2,9 +2,6 @@
 
 Engineering, quietly and clearly.
 
-ユーザーの課題解決に責任をもち、要件定義から実装までをチーム開発で行っています。
-複雑なことを、ゆっくり、わかりやすく伝えることを大事にしています。
-
 **Portfolio** → https://kazec-m.github.io
 **Email** → mariko.kazetani@gmail.com
 
