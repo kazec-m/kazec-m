@@ -2,7 +2,7 @@
 
 Engineering, quietly and clearly.
 
-**Portfolio** → https://kazec-m.github.io
+**Portfolio** → https://kazec-m.github.io(Astro / Tailwind CSSで個人開発。GitHub Actionsでデプロイ)
 **Email** → mariko.kazetani@gmail.com
 
 ## Featured projects
