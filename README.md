@@ -1,12 +1,11 @@
 # Mariko Kazetani
 
-Engineering, quietly and clearly.
-
-**Portfolio** → https://kazec-m.github.io(Astro / Tailwind CSSで個人開発。GitHub Actionsでデプロイ)
-**Email** → mariko.kazetani@gmail.com
+**Email** → mariko.kazetani@gmail.com  
 
 ## Featured projects
 
-- **[Scanly](https://github.com/kazec-m/scanly)** — 書類画像をAIが期限・内容を読取り、家族カレンダーに自動登録。開発環境構築・認証・デプロイを担当。
-- **[おかんペイ](https://github.com/kazec-m/okan-pay)** — テストの成績に応じてお小遣い送金に誘導するLINE Bot。要件定義・仕様設計を担当。
-- **[nhk-radio-automation](https://github.com/kazec-m/nhk-radio-automation)** — [個人開発]Raspberry PiとSeleniumで、朝6時に英会話ラジオをAmazon Echoで自動再生。
+- **[Portfolio](https://kazec-m.github.io)** — Astro / Tailwind CSS / GitHub Actionsで自動デプロイ　(個人開発)
+- **[Radio-automation](https://github.com/kazec-m/nhk-radio-automation)** — Raspberry PiとSeleniumで、ラジオをAmazon Echoで自動再生 (個人開発)
+- **[Scanly](https://github.com/kazec-m/scanly)** — AIが書類画像を内容を読取り、家族カレンダーに自動登録。環境構築・認証・デプロイを担当
+- **[おかんペイ](https://github.com/kazec-m/okan-pay)** — テスト成績に応じてお小遣い送金に誘導するLINE Bot。要件定義を担当
+
