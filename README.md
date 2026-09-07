@@ -1,6 +1,7 @@
 # Mariko Kazetani
 
 **Email** → mariko.kazetani@gmail.com  
+**[Qiita](https://qiita.com/okann)**
 
 ## Featured projects
 
